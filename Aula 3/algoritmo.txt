@@ -1,0 +1,19 @@
+Trocar uma lâmpada
+Passo 1: Pegar a nova lâmpada
+Passo 2: Verificar se a lâmpada antiga está ligada ou desligada
+Passo 3: Se estiver ligada
+Passo 4: Apagar a luz e esperar esfriar
+Passo 5: Se estiver desligada
+Passo 6: Pegar a escada
+Passo 7: Subir na escada
+Passo 8: Tirar a lâmpada antiga
+Passo 9: Colocar a nova lâmpada
+
+Vir até o Senac
+Passo 1: Chegar em casa
+Passo 2: Tomar banho 
+Passo 3: Trocar de roupa
+Passo 4: Tomar café 
+Passo 5: Pegar o carro
+Passo 6: Vir até o Senac
+Passo 7: Andar até a sala
