@@ -7,10 +7,10 @@ if (numero % 2 === 0) {
     console.log("Não passou no teste.") 
 }
 
-//a)Primeiro transforma a variavel respostaDoUsuario que é uma String em uma variaável Number.
-//If e else verificam se é par ou impar.
-//b)Para números pares
-//c)Para números impares
+/*a)Primeiro converte a variável respostaDoUsuario que é 
+uma String em uma variável Number. Verfica se este número tem resto 0.
+b)Para números pares
+c)Para números ímpares*/
 
 jsx
 let fruta
@@ -34,9 +34,11 @@ switch (fruta) {
 }
 console.log("O preço da fruta ", fruta, " é ", "R$ ", preco)
 
-//a)Indica o preço da fruta
-//b)O preço da fruta maça é R$2.25
-//c)Imprime 5
+/*a)Indica o preço da fruta
+b)O preço da fruta maça é R$2.25
+c)O preço da fruta pêra é 5
+Se o break logo acima do default for removido o código 
+é executado usando o próximo break.*/
 
 const numero = Number(("50"))
 
@@ -47,7 +49,10 @@ if(numero > 0) {
 
 console.log(mensagem)
 
-//a)Indica uma variavel em string transformada em number
-//b)Se numero for maior que zero vai aparecer "Esse número passou no teste"
-//Vai aparecer "Esse número passou no teste"
-//c)Sim, faltou o else
+/*a)Indica uma variavel em string convertida em number
+b)Se numero for maior que zero vai aparecer "Esse número passou no teste"
+Não vai ser executado
+c)Sim, haverá um erro no console. Isso ocorrerá porque a variável "mensagem" 
+é declarada dentro do bloco if e não estará acessível fora dele. 
+Portando, ao tentar acessá-la fora do bloco if,
+ocorrerá um erro de "mensagem is not defined"*/ 
